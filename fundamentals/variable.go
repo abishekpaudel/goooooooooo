@@ -29,6 +29,21 @@ var newBooleanValue bool = true;
 fmt.Println(newBooleanValue)
 
 
+func (day)
+{
+
+	switch day {
+
+	case "sat"
+	fmt.Println("Holiday")
+
+default:
+	fmt.Println("Working day")
+}
+
+
+}
+
 
 }
 

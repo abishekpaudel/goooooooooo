@@ -13,7 +13,7 @@ func main(){
 		fmt.Println("minior")
 	}
 
-	var a float64 = 3.555
+	var a float64 = 3.5556
 	var b int = 3
 	
 	if a==3.555 && b ==3 {
